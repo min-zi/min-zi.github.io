@@ -1,7 +1,7 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "Swift 데이터 타입, 상수, 변수"
+date: 2020-05-19 01:23
+categories: Swift
 ---
 
-fffffgfd
+스위프트 데이터 타입
